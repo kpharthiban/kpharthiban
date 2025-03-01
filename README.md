@@ -1,7 +1,7 @@
 # Hi there, I'm Pharthiban! 👋
 
 - 👩🏻‍💻 Computer Science student passionate about learning software development, cybersecurity and emerging technologies
-- 🎓 Studying Bachelors of Computer Science (Hons.) at Multimedia Unviersity, Cyberjaya, Malaysia
+- 🎓 Studying Bachelors of Computer Science (Hons.) at Multimedia University, Cyberjaya, Malaysia
 - 🔧 Exploring web development, AI, and cloud technologies
 - 🌱 Currently learning about Front-End development using ReactJS!
 
